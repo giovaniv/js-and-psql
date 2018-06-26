@@ -1,0 +1,22 @@
+{
+  "name": "js-and-psql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giovaniv/js-and-psql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giovaniv/js-and-psql/issues"
+  },
+  "homepage": "https://github.com/giovaniv/js-and-psql#readme",
+  "dependencies": {
+    "pg": "^7.4.3"
+  }
+}
